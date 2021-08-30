@@ -5,7 +5,7 @@
 </div>
 
 # Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Angry_Pineapple3121&count_private=true&show_icons=true&theme=gotham)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Angry-Pineapple3121&count_private=true&show_icons=true&theme=gotham)
 
 # Amazing Badges
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
