@@ -5,7 +5,7 @@
 </div>
 
 # Stats
-![Stats1](https://github-readme-stats.vercel.app/api?username=Angry-Pineapple321&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true)
+![Stats1](https://github-readme-stats.vercel.app/api?username=Angry-Pineapple3121&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true)
 ![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=Angry-Pineapple3121&theme=midnight-purple&hide_border=true)
 ![Stats3](https://github-readme-stats.vercel.app/api/top-langs?username=Angry-Pineapple3121&theme=midnight-purple&layout=compact&hide_border=true&langs_count=25)
 
