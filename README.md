@@ -10,6 +10,12 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Angry-Pineapple3121&theme=midnight-purple&hide_border=true">
 
+**Languages & Technologies I use on a regular basis:**
+<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" />
+<img alt="YARA" align="center" src="https://img.shields.io/badge/-YARA-001fe6?style=flat&logo=virustotal&logoColor=white" />
+<img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" />
+<img alt="JSON" align="center" src="https://img.shields.io/badge/-JSON-03ad64?style=flat&logo=json&logoColor=white" />
+
 # Amazing Badges
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
