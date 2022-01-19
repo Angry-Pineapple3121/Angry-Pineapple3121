@@ -12,7 +12,7 @@
 
 **Languages & Technologies I use on a regular basis:**
 
-<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" /> <img alt="YARA" align="center" src="https://img.shields.io/badge/-YARA-001fe6?style=flat&logo=virustotal&logoColor=white" /> <img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" /> <img alt="JSON" align="center" src="https://img.shields.io/badge/-JSON-03ad64?style=flat&logo=json&logoColor=white" />
+<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" /> <img alt="YARA" align="center" src="https://img.shields.io/badge/-YARA-001fe6?style=flat&logo=virustotal&logoColor=white" /> <img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" /> <img alt="JSON" align="center" src="https://img.shields.io/badge/-JSON-03ad64?style=flat&logo=json&logoColor=white" /> <img alt="Ubuntu" align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 # Amazing Badges
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
